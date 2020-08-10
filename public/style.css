@@ -1,0 +1,493 @@
+div{
+    background-color: royalblue;
+    height: 50px;
+    
+    }
+    
+    .button{ 
+        
+        position: absolute; 
+        left: 1200px; 
+        top:20px;
+        height:28px;
+        width: 85px; 
+    }
+    
+    .pak{position: absolute; 
+        left:1290px; 
+        top:20px;
+        height:28px;
+        width: 95px;
+        
+        
+     }
+    
+     .ind{ 
+        
+         position:absolute; 
+         left:1390px;
+         top:20px;
+         height:28px;
+         width:95px;
+        
+        }
+    
+     
+    .first{
+        width: 20px;
+        height: 20px;
+        position: absolute; top: 25px; left: 250px;
+    }
+     
+    .second{
+        width: 20px;
+        height: 20px;
+        position: absolute; top: 25px; left: 280px;
+    }
+    
+    .third{
+        width: 20px;
+        height: 20px;
+        position: absolute; top: 25px; left: 310px;
+    }
+    
+    .fourth{
+        width: 20px;
+        height: 20px;
+        position: absolute; top: 25px; left: 340px;
+    }
+    
+    .fifth{
+        width: 20px;
+        height: 20px;
+        position: absolute; top: 25px; left: 370px;
+    }
+    
+    p{  
+        text-align: center; 
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 15px;
+        color: white;
+    
+    }
+    
+    .white{ 
+        
+        background-color: whitesmoke; 
+        height: 70px ;
+        
+    
+    }
+    
+    .black{ 
+        
+        background-color: silver; 
+        height: 500px;
+    }
+    
+    .naru{ 
+        width:1567px; 
+        height:500px; 
+    }
+    
+    
+    .chander{ 
+        background-color: white; 
+        height: 24px;
+    }
+    
+    .ajeet{height:35px;}
+    
+    
+    
+    .sahil{
+        font-family: Arial, Helvetica, sans-serif; 
+        padding: 10px; ;
+    }
+    
+    
+    
+    
+    
+    .D{
+        background-color: whitesmoke;
+        height: 600px; 
+        
+    }
+    
+    
+    .V{ 
+        position:absolute; 
+        top:78px; 
+        left:210px;
+    
+    }
+    
+    h1{ color:green; 
+        text-align: center; 
+        padding: 60px;
+        font-size: 38px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    }
+    
+    .saylani{ 
+        padding-top:108px;
+        height: 35px;
+        padding-left: 750px;
+        width: 38px; 
+    }
+    
+    .Z{ 
+        color:#708090; 
+        padding-top:1px;
+    }
+    
+    .vijay{
+        background-color: blue;
+        height: 250px;
+    }
+    
+    .img{ 
+        width: 30px;
+        height: 35px;
+        position: absolute; 
+        left: 330px; 
+        padding-top: 52px;
+    }
+    
+    .raza{ 
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: white; 
+        font-size: 50px;
+        position: absolute;
+        left: 182px;
+    }
+    
+    h2{ 
+        position: absolute;
+        left: 230px;
+        margin-top: 160px;
+        color: white;
+        font-size: 15px;
+    }
+    
+    .imgg{ 
+        width:30px;
+        height:35px;
+        position:absolute; 
+        left:650px; 
+        padding-top:52px;
+    }
+    
+    .hamza{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: white;
+        font-size:50px;
+        position:absolute;
+        left:545px;
+    
+    }
+    
+    .tahir{
+        
+        position: absolute;
+        left: 558px;
+        margin-top: 160px;
+        color: white;
+        font-size: 15px;
+    
+    }
+    
+    .sunilimg{
+    
+        width:30px;
+        height:35px;
+        position:absolute; 
+        left:950px; 
+        padding-top:52px;
+    }
+    
+    .k{
+    
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: white;
+        font-size:50px;
+        position:absolute;
+        left:820px;
+    
+    }
+    
+    .L{ 
+    
+        position: absolute;
+        left: 890px;
+        margin-top: 160px;
+        color: white;
+        font-size: 15px
+    
+    }
+    
+    .Mimg{
+    
+        width:30px;
+        height:35px;
+        position:absolute; 
+        left:1250px; 
+        padding-top:52px; 
+     
+     }
+    
+     .N{
+        
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: white;
+        font-size:50px;
+        position:absolute;
+        left:1105px;
+         
+     }
+    
+     .O{
+    
+        position: absolute;
+        left: 1176px;
+        margin-top: 160px;
+        color: white;
+        font-size: 15px;
+        
+     }
+    
+    .usa{
+        
+    
+        height:650px;
+        background-color: whitesmoke;
+    
+    } 
+    
+    .uk{
+         margin-top: -1px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: royalblue;
+        font-size: 37px;
+    }   
+    
+    .UAE{ 
+        position: absolute;
+        top: 1615px;
+        height: 38px;
+        width: 42px;
+        padding-left: 750px;
+    
+    }
+    
+    .dubai{ 
+        
+           background-color: rgb(255, 255, 255);
+           width: 330px; height: 170px;
+           display: inline-block;
+           margin: 5px 10px 5px 10px;
+           margin-top: 32px;
+    } 
+    
+    .sadqah{ 
+        
+        height: 140px; 
+        width: 140px;
+        margin-top: 5px;
+    }
+    
+    .welfare{ 
+        
+        height: 140px; 
+        width: 140px;
+        margin-top: 5px;
+    }
+    
+    .medical{ 
+        
+        height: 140px; 
+        width: 140px;
+        margin-top: 5px;
+    }
+       
+    .dastarkhan{
+    
+            height: 140px; 
+            width:  140px;
+            margin-top: 5px;
+     }
+    
+     .roplant{
+        
+          height: 140px; 
+          width:  140px;
+          margin-top: 5px;
+    
+      }
+    
+      .education{
+        
+        height: 140px; 
+        width:  140px;
+        margin-top: 5px;
+    
+    }
+    
+    .amarlal{
+    
+        background-color: royalblue;
+        font-family: initial;
+    }
+    
+    .events{
+       height: 800px;
+       background-color: white;
+    
+    }
+    
+    .mission{ 
+        color: royalblue; 
+        position: absolute;
+        left: 100px;
+        font-size: 25px;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+    
+    .important{
+          width: 330px; 
+          height: 40px;
+          display: inline-block;
+          margin: 5px 10px 5px 10px;
+          background-color: whitesmoke;
+          margin-top: 150px;
+          display:inline-block;
+          padding: 15px;
+        
+          
+     }
+    
+     .mumi{
+         
+        padding: 15px;
+        width: 330px; 
+        height: 40px;
+        display: inline-block;
+        margin: 5px 10px 5px 10px;
+        background-color: whitesmoke;
+        
+        
+    }
+    
+    .HEPA{ 
+        color: rgb(19, 51, 148); 
+        position: absolute;
+        top:2450 px;
+        padding: 1px;
+        padding-left: 70px;
+        
+    }
+    
+    .upcoming{
+        
+        background-color:white;
+        height: 300px;
+        width: 300px;
+        position: absolute;
+        left: 1200px;
+        top: 2350px;
+        font-size: 15px;
+        
+    
+        
+    }
+    
+    .GALLARY{
+         padding: 30px;
+        color:green; 
+        font-size: 38px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    }
+    
+    .anas{ 
+        width:200px;
+        height: 150px;
+    }
+    
+    .footer{ 
+        
+        background-color: rgb(61, 47, 47);
+        height: 400px;
+    
+    }
+    
+    .bah{ 
+     
+      padding-right: 650px;
+      padding-top: 100px;
+    
+    }
+    
+    
+    .phone{
+    
+        height: 20px;
+        width: 20px;
+        padding-left: 246px;
+        display: block;
+        
+    }
+    
+    .dur{
+    
+        position: absolute;
+        top: 3137px;
+        padding-left: 270px;
+        
+    }
+    
+    
+    .bad{ 
+        position: absolute;
+        top: 3175px;
+        left: 263px;
+        
+    }
+    
+    .khi{ 
+        position: absolute;
+        top: 3212px;
+        left: 263px;
+        
+    }
+    
+    .hyd{
+    
+        position: absolute;
+        top: 3250px;
+        left: 263px;
+        
+    
+    
+    }
+    
+    .sang{
+    
+        position: absolute;
+        top: 3287px;
+        left: 263px;
+        color: rgb(245, 237, 237);
+        
+    }
+    
+    
+    .dgri{
+    
+        font-size: 11px;
+        margin-top: -1px;
+        padding-right: 940px;
+    }
+    
